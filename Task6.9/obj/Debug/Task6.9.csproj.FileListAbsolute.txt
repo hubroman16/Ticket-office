@@ -1,0 +1,12 @@
+D:\уроки\сишарп\Task6.9\Task6.9\bin\Debug\Task6.9.exe.config
+D:\уроки\сишарп\Task6.9\Task6.9\bin\Debug\Task6.9.exe
+D:\уроки\сишарп\Task6.9\Task6.9\bin\Debug\Task6.9.pdb
+D:\уроки\сишарп\Task6.9\Task6.9\obj\Debug\Task6.9.csprojAssemblyReference.cache
+D:\уроки\сишарп\Task6.9\Task6.9\obj\Debug\Task6._9.Form1.resources
+D:\уроки\сишарп\Task6.9\Task6.9\obj\Debug\Task6._9.Properties.Resources.resources
+D:\уроки\сишарп\Task6.9\Task6.9\obj\Debug\Task6.9.csproj.GenerateResource.cache
+D:\уроки\сишарп\Task6.9\Task6.9\obj\Debug\Task6.9.csproj.CoreCompileInputs.cache
+D:\уроки\сишарп\Task6.9\Task6.9\obj\Debug\Task6.9.exe
+D:\уроки\сишарп\Task6.9\Task6.9\obj\Debug\Task6.9.pdb
+D:\уроки\сишарп\Task6.9\Task6.9\obj\Debug\Task6._9.Form2.resources
+D:\уроки\сишарп\Task6.9\Task6.9\obj\Debug\Task6._9.Form5.resources
